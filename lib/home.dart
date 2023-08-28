@@ -1,9 +1,8 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:fortune/homepage.dart';
-import 'package:fortune/inboxpage.dart';
-import 'package:fortune/socialpage.dart';
+import 'package:fortune/pages/Home/homepage.dart';
+import 'package:fortune/pages/inboxPage/inboxpage.dart';
+import 'package:fortune/pages/socialpage.dart';
 
 class Home extends StatefulWidget {
   const Home({Key? key}) : super(key: key);
